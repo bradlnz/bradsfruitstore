@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "fcfcce30218c477862b21e8577ccca9eb19f6b7b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BradsFruitStore.TerminalApp/1.0.0": {
+        "dependencies": {
+          "BradsFruitStore.Terminal": "1.0.0"
+        },
+        "runtime": {
+          "BradsFruitStore.TerminalApp.dll": {}
+        }
+      },
+      "System.Interactive.Async/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Interactive.Async.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.702"
+          }
+        }
+      },
+      "BradsFruitStore.Models/1.0.0": {
+        "runtime": {
+          "BradsFruitStore.Models.dll": {}
+        }
+      },
+      "BradsFruitStore.Terminal/1.0.0": {
+        "dependencies": {
+          "BradsFruitStore.Models": "1.0.0",
+          "System.Interactive.Async": "3.2.0"
+        },
+        "runtime": {
+          "BradsFruitStore.Terminal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BradsFruitStore.TerminalApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Interactive.Async/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C07p0dAA5lGqYUPiPCK3paR709gqS4aMDDsje0v0pvffwzLaxmsn5YQTfZbyNG5qrudPx+BCxTqISnncQ3wIoQ==",
+      "path": "system.interactive.async/3.2.0",
+      "hashPath": "system.interactive.async.3.2.0.nupkg.sha512"
+    },
+    "BradsFruitStore.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BradsFruitStore.Terminal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

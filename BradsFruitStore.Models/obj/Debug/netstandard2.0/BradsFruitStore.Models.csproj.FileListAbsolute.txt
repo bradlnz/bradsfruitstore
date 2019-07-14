@@ -1,0 +1,9 @@
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\bin\Debug\netstandard2.0\BradsFruitStore.Models.deps.json
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\bin\Debug\netstandard2.0\BradsFruitStore.Models.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\bin\Debug\netstandard2.0\BradsFruitStore.Models.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.csprojAssemblyReference.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.csproj.CoreCompileInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.AssemblyInfoInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.AssemblyInfo.cs
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Models\obj\Debug\netstandard2.0\BradsFruitStore.Models.pdb

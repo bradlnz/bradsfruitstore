@@ -1,0 +1,16 @@
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.deps.json
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.runtimeconfig.json
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.runtimeconfig.dev.json
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.Models.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.Terminal.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.Terminal.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\bin\Debug\netcoreapp2.2\BradsFruitStore.Models.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.csprojAssemblyReference.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.csproj.CoreCompileInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.AssemblyInfoInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.AssemblyInfo.cs
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.csproj.CopyComplete
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.TerminalApp\obj\Debug\netcoreapp2.2\BradsFruitStore.TerminalApp.pdb

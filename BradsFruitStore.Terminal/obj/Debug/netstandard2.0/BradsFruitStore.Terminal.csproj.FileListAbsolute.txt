@@ -1,0 +1,12 @@
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\bin\Debug\netstandard2.0\BradsFruitStore.Terminal.deps.json
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\bin\Debug\netstandard2.0\BradsFruitStore.Terminal.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\bin\Debug\netstandard2.0\BradsFruitStore.Terminal.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\bin\Debug\netstandard2.0\BradsFruitStore.Models.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\bin\Debug\netstandard2.0\BradsFruitStore.Models.pdb
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.csprojAssemblyReference.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.csproj.CoreCompileInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.AssemblyInfoInputs.cache
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.AssemblyInfo.cs
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.csproj.CopyComplete
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.dll
+C:\XE\BradsFruitStore\BradsFruitStore.TerminalApp\BradsFruitStore.Terminal\obj\Debug\netstandard2.0\BradsFruitStore.Terminal.pdb
